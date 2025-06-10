@@ -42,4 +42,4 @@ A web-based application built with Streamlit that uses a trained deep learning m
 git clone https://github.com/vishussingh24/Plant_Disease_Detection.git
 cd Plant_Disease_Detection
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run main.py
